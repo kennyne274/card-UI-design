@@ -6,6 +6,9 @@ Although I am still a beginner developer in the learning process, I am studying 
 
 Based on concepts I learned just a few days ago, I designed and built this product card component inspired by the menu screens of fast-food brands.
 
+![Hamburger Product Card UI](hamburger-card.png)
+
+
 ## 🍔 Features
 
 * Product card layout design
