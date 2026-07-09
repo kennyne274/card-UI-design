@@ -4,6 +4,8 @@ A collection of reusable and responsive card UI components built with HTML and C
 
 This repository was created to practice modern web design techniques and improve front-end development skills by recreating and designing various card layouts.
 
+![Hamburger Product Card UI](hamburger-card-design/hamburger_card.png)
+
 ## Included Card Types
 
 * Profile Cards
